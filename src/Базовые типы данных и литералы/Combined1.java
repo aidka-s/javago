@@ -54,16 +54,12 @@ public class Combined1 {
     public static void task2() {
         System.out.println("Практика 2");
 
-        char k = '\u041A';
-        char a = '\u0430';
-        char t = '\u0442';
-        char e = '\u0435';
-        char r = '\u0440';
+        char A = '\u0410';
         char i = '\u0438';
-        char n = '\u043D';
-        char a2 = '\u0430';
+        char d = '\u0434';
+        char a = '\u0430';
 
-        System.out.println("Имя в Unicode: " + k + a + t + e + r + i + n + a2);
+        System.out.println("Имя в Unicode: " + A + i + d + a);
         System.out.println();
     }
 
