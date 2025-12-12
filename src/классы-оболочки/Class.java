@@ -2,7 +2,7 @@
  * Практическое изучение методов decode() и особенностей работы
  * с обертками примитивных типов в Java
  */
-public class NumberWrappers {
+public class Class {
 
     public static void main(String[] args) {
         // Часть 1 - Разбор строк в числа
