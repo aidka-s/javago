@@ -2,6 +2,8 @@ public class SwitchDemo {
     /**
      * Демонстрация всех возможных типов switch и fall-through.
      * @param args аргументы командной строки
+     * @author Student
+     * @version 1.0
      */
     public static void main(String[] args) {
         System.out.println("=== ПРАКТИКА #1: Все возможные типы switch ===\n");
