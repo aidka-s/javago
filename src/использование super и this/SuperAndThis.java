@@ -79,11 +79,11 @@ class A {
     }
 }
 
-class B extends A {
+class Bb extends A {
     // Ничего не переопределяем
 }
 
-class C extends B {
+class Cc extends Bb {
     void show() {
         // super обращается к A, так как B не переопределяет
         System.out.println("Число из A: " + super.number);
@@ -131,7 +131,7 @@ public class SuperAndThis {
         raceCar.move();
 
         System.out.println("\n3. Цепочка наследования:");
-        C obj = new C();
+        Cc obj = new Cc();
         obj.show();
 
         System.out.println("\n4. Использование this():");
