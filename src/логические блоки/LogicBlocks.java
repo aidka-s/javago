@@ -1,4 +1,9 @@
 public class LogicBlocks {
+    /**
+     * Практика по логическим блокам
+     * @author Student
+     * @version 1.0
+     */
     {
         System.out.println("logic (1) id= " + this.id);  // 0 (значение по умолчанию)
     }
