@@ -1,3 +1,9 @@
+/**
+ * Интерфейсы
+ * @author Student
+ * @version 1.0
+ */
+
 // Интерфейс без модификатора (package-private)
 interface SimpleInterface {
     String MESSAGE = "Hello from interface";

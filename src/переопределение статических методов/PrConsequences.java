@@ -1,6 +1,11 @@
 public class PrConsequences {
+    /**
+     * Практика по теме переопределение статических методов
+     * @author Student
+     * @version 1.0
+     */
     public static void main(String[] args) {
-        System.out.println("=== Практические следствия ===\n");
+        System.out.println("Практические следствия\n");
 
         Database db = new MySQLDatabase();
 

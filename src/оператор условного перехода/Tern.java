@@ -1,4 +1,9 @@
 public class Tern {
+    /**
+     * Оператор условного перехода
+     * @author Student
+     * @version 1.0
+     */
     public static void main(String[] args) {
         int a = 2; // пример значения
 

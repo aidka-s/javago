@@ -1,7 +1,10 @@
 /**
  * Практическое изучение методов decode() и особенностей работы
  * с обертками примитивных типов в Java
+ * @author Student
+ * @version 1.0
  */
+
 public class ClassWrapper {
 
     public static void main(String[] args) {

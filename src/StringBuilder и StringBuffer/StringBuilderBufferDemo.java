@@ -1,4 +1,9 @@
 public class StringBuilderBufferDemo {
+    /**
+     * Демонстрация StringBuilderBufferDemo
+     * @author Student
+     * @version 1.0
+     */
     public static void main(String[] args) {
         // ПРАКТИКА #1: 10 методов StringBuilder/StringBuffer
         System.out.println("=== ПРАКТИКА #1: Методы StringBuilder/StringBuffer ===");

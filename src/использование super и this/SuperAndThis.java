@@ -1,3 +1,8 @@
+/**
+ * Использование super и this
+ * @author Student
+ * @version 1.0
+ */
 // Родительский класс
 class Transport {
     String name = "Transport";

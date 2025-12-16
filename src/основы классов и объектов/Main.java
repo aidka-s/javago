@@ -1,3 +1,8 @@
+/**
+ * Основы классов и объектов
+ * @author Student
+ * @version 1.0
+ */
 interface Flyable {
     void fly();
 }

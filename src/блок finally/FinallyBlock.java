@@ -1,4 +1,9 @@
 public class FinallyBlock {
+    /**
+     * Практика по блоку finally
+     * @author Student
+     * @version 1.0
+     */
     public static void main(String[] args) {
         System.out.println("=== ПРАКТИКА #1: try БЕЗ catch и finally ===");
         testTryOnly();

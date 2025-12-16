@@ -1,3 +1,8 @@
+/**
+ * Вложенные классы, практика
+ * @author Student
+ * @version 1.0
+ */
 // Практика: Вложенный класс в интерфейсе
 interface Shape {
     void draw();

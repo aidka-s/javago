@@ -1,5 +1,9 @@
 public class Combined1 {
-
+    /**
+     * Практика по базовым типам данных и литералам
+     * @author Student
+     * @version 1.0
+     */
     private byte defByte;
     private short defShort;
     private int defInt;

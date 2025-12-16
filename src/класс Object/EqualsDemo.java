@@ -4,6 +4,8 @@ import java.util.Set;
 
 /**
  * Демонстрация переопределения метода equals() и hashCode()
+ * @author Student
+ * @version 1.0
  */
 public class EqualsDemo {
     public static void main(String[] args) {

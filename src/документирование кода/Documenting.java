@@ -1,6 +1,9 @@
 /**
  * Демонстрация Javadoc
+ * @author Student
+ * @version 1.0
  */
+
 public class Documenting {
 
     public static final String GREETING = "Hello, JavaDoc!";

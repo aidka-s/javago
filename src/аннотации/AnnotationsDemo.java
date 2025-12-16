@@ -1,7 +1,11 @@
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Target;
 
-// ПРАКТИКА #1: Демонстрация встроенных аннотаций
+/**
+ * Демонстрация встроенных аннотаций
+ * @author Student
+ * @version 1.0
+ */
 
 class Parent {
     public void originalMethod() {

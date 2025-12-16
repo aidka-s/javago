@@ -3,6 +3,11 @@ import java.io.FileNotFoundException;
 import java.util.Scanner;
 
 public class ScannerFile {
+    /**
+     * Класс Scanner
+     * @author Student
+     * @version 1.0
+     */
     public static void main(String[] args) {
         System.out.println("=== ПРАКТИКА #1: Чтение файла с помощью Scanner ===");
 

@@ -1,6 +1,9 @@
 /**
  * Демонстрация различных типов исключений в Java
+ * @author Student
+ * @version 1.0
  */
+
 public class ExceptionsDemo {
     public static void main(String[] args) {
         System.out.println("=== ПРАКТИКА #1: Виды исключений ===");

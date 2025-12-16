@@ -1,3 +1,8 @@
+/**
+ * Внутренние классы, практика
+ * @author Student
+ * @version 1.0
+ */
 public class InnerClassesDemo {
     // Поля внешнего класса с разными модификаторами доступа
     private String privateField = "private поле";
