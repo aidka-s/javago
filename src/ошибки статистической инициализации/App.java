@@ -30,8 +30,8 @@ public class App {
  *
  * Вывод будет вот таким:
  * Exception in thread "main" java.lang.NumberFormatException: For input string: "Y-"
- *     at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
- *     at java.lang.Integer.parseInt(Integer.java:580)
- *     at java.lang.Integer.parseInt(Integer.java:615)
- *     at App.<clinit>(App.java:4)
+ *     at java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)
+ *     at java.lang.Integer.parseInt(Integer.java:565)
+ *     at java.lang.Integer.parseInt(Integer.java:662)
+ *     at App.<clinit>(App.java:10)
  */
